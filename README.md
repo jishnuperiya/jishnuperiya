@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @jishnuperiya
-- 👀 I’m interested in automotive software develoment 
-- 💞️ I’m looking to collaborate on autonomous driving projects 
 - 📫 How to reach me: jishnuperiya@gmail.com
 
 <!---
