@@ -41,6 +41,20 @@ The project is intentionally domain-agnostic and serves as a **laboratory for pr
 > The goal is not features — it’s *clarity, correctness, and trust*.
 
 ---
+## Work History
+
+### Software Engineer (C++ / Systems)
+**TechHub by e:fs (Audi / CARIAD ecosystem)**  
+*2021 – 2025*
+
+- Developed and maintained production-grade **C++ systems** for ADAS / autonomous driving
+- Worked on **sensor pipelines** (LiDAR, camera), data replay, and evaluation tooling
+- Built deterministic components with strict timing, correctness, and performance constraints
+- Collaborated in large, safety-conscious codebases with long-lived architectures
+
+Focus areas:
+C++17/20 · sensor data processing · replay & validation · tooling · Linux
+---
 
 ## What I’m Doing Right Now
 
