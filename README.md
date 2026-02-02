@@ -14,10 +14,6 @@ Formerly working on production C++ systems; currently investing deeply in core l
 **Languages**  
 C++17/20 · C · Python (tooling) · Bash  
 
-**Core Skills**  
-API design · RAII · value semantics · const-correctness · testing  
-STL mastery · memory ownership · compile-time vs runtime trade-offs  
-
 **Tooling**  
 CMake · Conan · Git · Linux · Qt  
 
