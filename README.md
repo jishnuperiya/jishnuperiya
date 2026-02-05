@@ -7,27 +7,3 @@ My interests are modern C++ (17/20), data modeling, and systems that are easy to
 
 Formerly working on production C++ systems; currently investing deeply in core language fundamentals, data structures, and design trade-offs.
 
-## Current Project
-
-### 🧩 Harmony-lib  
-*A modern C++ library focused on expressive, safe, and composable data transformations.*
-
-Harmony-lib explores how to design **small, powerful abstractions** that:
-
-- Enforce strong invariants through types  
-- Prefer immutability and value semantics  
-- Are deterministic and easy to test  
-- Scale from simple use cases to complex pipelines  
-- Remain readable and maintainable over time
-
-The project is intentionally domain-agnostic and serves as a **laboratory for professional-grade C++ library design**.
-
-
-## What I’m Doing Right Now
-
-- 📚 Strengthening **data structures & algorithms** in C++  
-- 🧠 Revisiting **systems fundamentals** (memory, lifetimes, performance)  
-- 🛠️ Iterating on Harmony-lib with an emphasis on **API quality**  
-- 🎯 Preparing for roles where **deep C++ understanding matters**
-
----
